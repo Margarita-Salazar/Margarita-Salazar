@@ -1,6 +1,6 @@
 ### Hello 👋
 
-Hi! I'm Margarita usualy I go by Maggie. I'm a software student who is passionate about learning new technologies!
+Hi! I'm Margarita usualy I go by Maggie. I'm a software engineer student who is passionate about learning new technologies!
 
 Some things about me
 - I'm currently working on an api to upload images
