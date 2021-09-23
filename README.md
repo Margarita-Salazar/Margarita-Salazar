@@ -8,4 +8,4 @@ Some things about me
 - I'm also intersted in learning about weather patterns
 
 you can also find me on
-[Linkedin](https://www.linkedin.com/in/margarita-salazar-974713203/)
+[Linkedin](https://www.linkedin.com/in/margarita-salazar/)
